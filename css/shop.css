@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins&display=swap');
+
+.product img {
+    width: 50%;
+    height: 50%;
+}
+
+.product h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+}
+
+.product h5 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.product p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
